@@ -1,0 +1,1 @@
+package com.example.activity.common.errors;/** * Created by linhow on 17/10/30. */public interface ServiceErrors {    String getCode();    String getMessage();}
